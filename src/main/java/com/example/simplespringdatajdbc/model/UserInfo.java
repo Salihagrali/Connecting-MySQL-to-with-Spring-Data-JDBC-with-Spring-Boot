@@ -1,4 +1,4 @@
-package com.example.simplecrudoperations.model;
+package com.example.simplespringdatajdbc.model;
 
 import lombok.Data;
 

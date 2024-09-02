@@ -1,8 +1,8 @@
-package com.example.simplecrudoperations.controller;
+package com.example.simplespringdatajdbc.controller;
 
-import com.example.simplecrudoperations.model.UserInfo;
-import com.example.simplecrudoperations.model.Users;
-import com.example.simplecrudoperations.service.UserService;
+import com.example.simplespringdatajdbc.model.UserInfo;
+import com.example.simplespringdatajdbc.model.Users;
+import com.example.simplespringdatajdbc.service.UserService;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;

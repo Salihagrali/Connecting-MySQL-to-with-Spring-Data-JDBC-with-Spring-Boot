@@ -1,6 +1,6 @@
-package com.example.simplecrudoperations.repository;
+package com.example.simplespringdatajdbc.repository;
 
-import com.example.simplecrudoperations.model.Users;
+import com.example.simplespringdatajdbc.model.Users;
 import org.springframework.data.jdbc.repository.query.Modifying;
 import org.springframework.data.jdbc.repository.query.Query;
 import org.springframework.data.repository.CrudRepository;

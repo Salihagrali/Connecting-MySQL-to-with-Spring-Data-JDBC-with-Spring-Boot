@@ -1,7 +1,7 @@
-package com.example.simplecrudoperations.service;
+package com.example.simplespringdatajdbc.service;
 
-import com.example.simplecrudoperations.model.Users;
-import com.example.simplecrudoperations.repository.UserRepo;
+import com.example.simplespringdatajdbc.model.Users;
+import com.example.simplespringdatajdbc.repository.UserRepo;
 import org.springframework.stereotype.Service;
 
 import java.time.LocalDateTime;
